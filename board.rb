@@ -172,6 +172,3 @@ end
 
 class InvalidMoveError < StandardError
 end
-© 2020 GitHub, Inc.
-Terms
-Privac
